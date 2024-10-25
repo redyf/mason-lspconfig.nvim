@@ -117,6 +117,7 @@
 | [nginx_language_server](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nginx_language_server) | [nginx-language-server](https://mason-registry.dev/registry/list#nginx-language-server) |
 | [nickel_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nickel_ls) | [nickel-lang-lsp](https://mason-registry.dev/registry/list#nickel-lang-lsp) |
 | [nil_ls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nil_ls) | [nil](https://mason-registry.dev/registry/list#nil) |
+| [nixd](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nixd) | [nixd](https://mason-registry.dev/registry/list#nixd) |
 | [nim_langserver](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nim_langserver) | [nimlangserver](https://mason-registry.dev/registry/list#nimlangserver) |
 | [nimls](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nimls) | [nimlsp](https://mason-registry.dev/registry/list#nimlsp) |
 | [ocamllsp](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#ocamllsp) | [ocaml-lsp](https://mason-registry.dev/registry/list#ocaml-lsp) |

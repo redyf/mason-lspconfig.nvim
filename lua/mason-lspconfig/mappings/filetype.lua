@@ -133,7 +133,7 @@ return {
   nginx = { "nginx_language_server" },
   nickel = { "nickel_ls" },
   nim = { "nim_langserver", "nimls" },
-  nix = { "nil_ls", "rnix" },
+  nix = { "nil_ls", "nixd", "rnix" },
   njk = { "htmx", "tailwindcss" },
   nunjucks = { "htmx", "tailwindcss" },
   objc = { "clangd" },

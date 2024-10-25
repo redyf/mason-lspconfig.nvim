@@ -323,6 +323,7 @@ local DEFAULT_SETTINGS = {
 | Nim | [`nim_langserver`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nim_langserver) |
 | Nim | [`nimls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nimls) |
 | Nix | [`nil_ls`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nil_ls) |
+| Nix | [`nixd`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#nixd) |
 | Nix | [`rnix`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#rnix) |
 | Nunjucks | [`jinja_lsp`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#jinja_lsp) |
 | OCaml | [`ocamllsp`](https://github.com/neovim/nvim-lspconfig/blob/master/doc/configs.md#ocamllsp) |

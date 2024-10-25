@@ -120,6 +120,7 @@ nextls                                    nextls
 nginx-language-server                     nginx_language_server
 nickel-lang-lsp                           nickel_ls
 nil                                       nil_ls
+nixd                                      nixd
 nimlangserver                             nim_langserver
 nimlsp                                    nimls
 ocaml-lsp                                 ocamllsp

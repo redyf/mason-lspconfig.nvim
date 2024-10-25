@@ -119,6 +119,7 @@ M.lspconfig_to_package = {
     ["nickel_ls"] = "nickel-lang-lsp",
     ["nginx_language_server"] = "nginx-language-server",
     ["nil_ls"] = "nil",
+    ["nixd"] = "nixd",
     ["nim_langserver"] = "nimlangserver",
     ["nimls"] = "nimlsp",
     ["ocamllsp"] = "ocaml-lsp",
